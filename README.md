@@ -1,5 +1,8 @@
-# JavaJogoDeCartas
+# Java - Jogo de Cartas do Baralho 🃏☕
 Jogo feito em java de cartas do baralho / Prof João Carlos Lima - Fiap
+
+# Aluna
+Nome: Jennifer Eduarda Vieira Daleffi - RM557137
 
 <div align="center">
   
